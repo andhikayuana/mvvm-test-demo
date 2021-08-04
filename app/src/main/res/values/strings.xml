@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Conversion App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_amount">Amount</string>
+    <string name="label_currency">Currency</string>
+    <string name="label_usd_desc">United States Dollar</string>
+    <string name="label_usd">USD</string>
+    <string name="label_loading">Loading...</string>
+</resources>
